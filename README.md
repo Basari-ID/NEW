@@ -1,5 +1,7 @@
 # SCRIPT FREE 👍
 
+•sementara dihapus
+
 $ pkg update && pkg upgrade
 
 $ pkg install python git
